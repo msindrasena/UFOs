@@ -72,4 +72,4 @@ d3.selectAll("#filter-btn").on("click", updateFilters);
 d3.selectAll("#clear-btn").on("click", clearFilters);
 
 // Build the table when the page loads
-buildTable(tableData);
+buildTable(tableData); 
